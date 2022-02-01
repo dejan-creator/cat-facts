@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  padding: 4rem;
+}
+
+.container {
+  width: 30%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  display: blok;
+  width: 60%;
+  margin-bottom: 1rem;
+}
+
+button {
+  width: 45%;
+}
+
+.fact {
+  margin-top: 1rem;
+}
